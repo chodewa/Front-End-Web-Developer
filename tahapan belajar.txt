@@ -2,3 +2,5 @@ Tahapan Belajar
 - HTML
 - CSS
 - JS
+- .net Core
+- C#
